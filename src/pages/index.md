@@ -1,39 +1,79 @@
 ---
-title: Richard Hendriks - Resume
-description: Resume about Richard Hendriks, CEO of Pied Piper.
+title: Steven Wang - Resume
+description: Resume about Steven Wang, Software developer.
 layout: ../layouts/Minimalist.astro
 pdfLink: resume.pdf
 ---
 
-# Richard Hendriks
+# Steven Wang
 
 **Programmer**
 
-San Francisco, USA | richard.hendriks@gmail.com | http://richardhendricks.com
+Regina, SK, Canada | wangyj641@gmail.com | +1 306 737 6186
 
-Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!
+I'm a Senior Software Developer with 10+ years of experience delivering scalable, high-performance applications across web applications and embedded systems.
+
+I spent 17 years at Samsung Electronics, where I led software development for mobile platform, smartwatch, and Tizen TV, working with global teams to build products used by millions of users worldwide.
+
+Expertise spans frontend, backend, mobile, and embedded systems.
+
+In recent years, I’ve focused on modern full-stack web and AI/LLMs application development.
+
+Independently building production-ready projects using:
+
+• Programming Languages: JavaScript/TypeScript, C/C++, C#, Python, Java
+
+• Frontend: React, Next.js, TailwindCSS, HTML, React Native
+
+• Backend: Node.js, .NET, PostgreSQL, Prisma, REST APIs, MongoDB
+
+• Platforms & Tools: Linux, Git, Docker, Vercel, CI/CD, Azure, Expo, Jest, GitHub
+
+• AI/LLMs: LLMs, MCP, Prompt Engineering, AI Agents, RAG, LangChain
+
+I take pride in writing clean, maintainable code and solving complex technical problems. I enjoy working in both team-based enterprise settings and fast-moving startup environments.
+
+📍 Based in Regina, Saskatchewan | 💼 Open to remote or on-site opportunities across Canada
+
+🇨🇦 Canadian Permanent Resident (PR) | Authorized to work full-time
+
+🔗 GitHub: github.com/wangyj641
+
+🔗 LinkedIn: linkedin.com/in/yongjunwang
 
 ## Work Experience
 
-### [Google](https://www.google.com/)
+### [NGIT Services Inc](https://www.ngitservices.com/)
 
-#### Senior Software Engineer | Oct 2022 - Current
+#### Senior Web Developer | April 2025 - July 2025
 
-Elit mollit ipsum fugiat enim labore et non. Amet nulla cupidatat esse est qui magna culpa velit magna excepteur proident Lorem aliquip ullamco. Anim culpa sit cillum enim consectetur aliqua id Lorem aute id id laborum. Sit nostrud ea anim et deserunt cillum sint culpa laboris. Nisi magna amet minim esse dolore. Do officia ipsum duis exercitation incididunt irure pariatur.
+- Developed and deployed cloud-based .NET applications on Microsoft Azure for the government of Saskatchewan
+- Optimized API response time by 19% through .NET performance tuning, improving user experience
 
-#### Software Engineer | Aug 2018 - Oct 2022
+### [Self-Employed](https://github.com/wangyj641)
 
-Elit mollit ipsum fugiat enim labore et non. Amet nulla cupidatat esse est qui magna culpa velit magna excepteur proident Lorem aliquip ullamco. Anim culpa sit cillum enim consectetur aliqua id Lorem aute id id laborum. Sit nostrud ea anim et deserunt cillum sint culpa laboris. Nisi magna amet minim esse dolore. Do officia ipsum duis exercitation incididunt irure pariatur.
+#### Full-Stack Developer | Apr 2025 - Jul 2025
 
-### [Pied Piper](http://piedpiper.com/)
+- Built and deployed multiple front-end/full-stack applications using React.js, Next.js, PostgreSQL, Prisma, Node, and Docker
+- Designed and maintained reusable React component libraries with robust TypeScript typings
+- Developed LLM-powered features, including intelligent chat workflows, content generation tools, and API-based AI integrations to enhance product functionality
 
-#### CEO/President | Dec 2013 - Dec 2014
+### [Samsung Electronics](https://www.samsung.com/)
 
-Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.
+#### Senior Software Engineer | Mar 2012 - Feb 2023
 
-- Build an algorithm for artist to detect if their music was violating copy right infringement laws
-- Successfully won Techcrunch Disrupt
-- Optimized an algorithm that holds the current world record for Weisman Scores
+- Developed and deployed cloud-based .NET applications on Microsoft Azure for the government of Saskatchewan
+- Optimized API response time by 19% through .NET performance tuning, improving user experience
+- Spent 17 years contributing to Samsung’s Tizen ecosystem across mobile, Smart TV, and wearable product lines, delivering features for global flagship devices.
+- Involved throughout the full software development lifecycle, including requirements analysis, system design, implementation, testing, and system integration.
+- Led and mentored an engineering team, driving delivery of performance-critical components deployed on millions of devices worldwide.
+- Worked across embedded systems, platform frameworks, application development, front-end engineering, and LLM-powered feature integration.
+- Designed and implemented core modules that improved system stability, performance, and development efficiency across multiple product generations.
+- Contributed to building an automated testing framework for Smart TV applications using Appium, improving test coverage and product reliability.
+
+#### Software Engineer | Sep 2005 - Feb 2012
+
+- Tizen mobile platform design and development
 
 ## Projects
 
@@ -45,14 +85,8 @@ Pied Piper is a multi-platform technology based on a proprietary universal compr
 
 Innovative middle-out compression algorithm that changes the way we store data.
 
-## Languages
-
-| English        | English     |
-| -------------- | ----------- |
-| Native speaker | Proficiency |
-
 ## Education
 
-### University of Oklahoma
+### Huazhong Agricultural University
 
-#### Bachelor, Information Technology | Jun 2011 - Jan 2014
+#### Bachelor, Machinery Engineering | Sep 1998 - Jun 2002
